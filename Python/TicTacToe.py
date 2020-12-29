@@ -94,4 +94,4 @@ if __name__ == '__main__':
             active_player = player_b
         else:
             active_player = player_a
-    print("It's a tie.")
+        print("It's a tie.")
